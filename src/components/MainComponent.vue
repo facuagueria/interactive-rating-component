@@ -1,4 +1,5 @@
 <template>
+<<<<<<< HEAD
   <main
     class="flex justify-center items-center w-screen h-screen bg-interactive-very-dark-blue"
   >
@@ -50,10 +51,14 @@
       </div>
     </div>
   </main>
+=======
+$END$
+>>>>>>> origin/main
 </template>
 
 <script>
 export default {
+<<<<<<< HEAD
   name: "MainComponent",
   data() {
     return {
@@ -73,3 +78,12 @@ export default {
 </script>
 
 <style scoped></style>
+=======
+name: "MainComponent"
+}
+</script>
+
+<style scoped>
+
+</style>
+>>>>>>> origin/main
