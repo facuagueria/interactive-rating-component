@@ -5,8 +5,8 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Frontendmentor](https://www.frontendmentor.io/solutions/interactive-rating-component-htmlcss-gridjavascriptstatemanagement-HJt2zWaz9)
-- Live Site URL: [Live site](https://ahmedsaidi99.github.io/rating-component/)
+- Solution URL: [Frontendmentor]()
+- Live Site URL: [Live site]()
 
 ## My process
 
