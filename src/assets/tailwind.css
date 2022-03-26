@@ -1,0 +1,18 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@400;700&display=swap');
+
+.btn {
+    @apply bg-gray-700 flex justify-center items-center w-12 h-12 rounded-3xl text-interactive-light-grey
+    hover:bg-interactive-light-grey hover:text-interactive-white
+    focus:bg-interactive-primary-orange focus:text-interactive-white;
+}
+
+.btn-submit {
+    @apply flex justify-center items-center uppercase bg-interactive-primary-orange text-interactive-white font-bold
+    rounded-3xl tracking-wider w-full h-12 hover:bg-interactive-white hover:text-interactive-primary-orange;
+}

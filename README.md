@@ -1,24 +1,18 @@
-# interactive-rating-component
+# Frontend Mentor - Interactive rating component solution
 
-## Project setup
-```
-npm install
-```
+This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Links
 
-### Lints and fixes files
-```
-npm run lint
-```
+- Solution URL: [Frontendmentor](https://www.frontendmentor.io/solutions/interactive-rating-component-htmlcss-gridjavascriptstatemanagement-HJt2zWaz9)
+- Live Site URL: [Live site](https://ahmedsaidi99.github.io/rating-component/)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## My process
+
+### Built with
+
+- Vue js
+- Tailwind CSS
+
+
