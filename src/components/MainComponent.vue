@@ -50,7 +50,6 @@
       </div>
     </div>
   </main>
-  ======= $END$ >>>>>>> origin/main
 </template>
 
 <script>
